@@ -1,5 +1,5 @@
 ---
-title: What Is HTML, and What Role Does It Play on the Web?
+title: What is HTML, and What Role Does It Play on the Web?
 draft: false
 tags:
   - html
