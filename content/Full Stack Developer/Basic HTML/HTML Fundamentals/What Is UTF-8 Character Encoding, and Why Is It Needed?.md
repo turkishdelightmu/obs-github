@@ -1,5 +1,9 @@
-# What Is UTF-8 Character Encoding, and Why Is It Needed?
-
+---
+title: What Is UTF-8 Character Encoding, and Why Is It Needed?
+draft: false
+tags:
+  - html
+---
 **UTF-8** (Unicode Transformation Format - 8) is a standardized character encoding widely used on the web.  
 
 Character encoding is the method computers use to store characters as data. Essentially, all text on a web page is a sequence of characters stored as one or more bytes. In computing, a byte is a unit of data consisting of eight bits (binary digits).  

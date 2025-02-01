@@ -1,6 +1,10 @@
-# What Is an HTML Boilerplate, and Why Is It Important?
-
-**HTML Boilerplate**: A ready-made template that provides the basic structure and essential elements for an HTML document, saving time and ensuring proper setup.
+---
+title: What Is an HTML Boilerplate, and Why Is It Important?
+draft: false
+tags:
+  - html
+---
+ **HTML Boilerplate**: A ready-made template that provides the basic structure and essential elements for an HTML document, saving time and ensuring proper setup.
 
 ### **Key Parts of an HTML Boilerplate**:
 1. **Doctype Declaration**: Specifies the HTML version.

@@ -1,4 +1,10 @@
-# What are Div Elements and When Should You Use Them?
+---
+title: What are Div Elements and When Should You Use Them?
+draft: false
+tags:
+  - html
+---
+## Summary
 
 1. **Introduction to the `<div>` element:**
    - A `<div>` is a versatile entity that can be anything you want it to be.

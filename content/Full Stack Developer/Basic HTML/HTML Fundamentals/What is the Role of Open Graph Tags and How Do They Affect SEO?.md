@@ -1,7 +1,10 @@
-
-### **What is the Role of Open Graph Tags and How Do They Affect SEO?**
-
-The **Open Graph protocol** enables you to control how your website content appears across various social media platforms, such as Facebook, LinkedIn, and many others. By using Open Graph (OG) tags, you can customize the preview of your content and make it more enticing to users, encouraging them to engage with it.
+---
+title: What is the Role of Open Graph Tags and How Do They Affect SEO?
+draft: false
+tags:
+  - html
+---
+ The **Open Graph protocol** enables you to control how your website content appears across various social media platforms, such as Facebook, LinkedIn, and many others. By using Open Graph (OG) tags, you can customize the preview of your content and make it more enticing to users, encouraging them to engage with it.
 
 ### 1.**Key Open Graph Properties**
 

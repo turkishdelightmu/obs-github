@@ -1,4 +1,10 @@
-# What Is the Role of the Link Element in HTML, and How Can It Be Used to Link to External Stylesheets?
+---
+title: What Is the Role of the Link Element in HTML, and How Can It Be Used to Link to External Stylesheets?
+draft: false
+tags:
+  - html
+---
+## Summary
 
 ### 1.**Purpose of the `<link>` Element**
 - Used to link **external resources**, such as **stylesheets** and **site icons**.

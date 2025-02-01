@@ -1,5 +1,9 @@
-# What Are SVGs, and When Should You Use Them?
-
+---
+title: What Are SVGs, and When Should You Use Them?
+draft: false
+tags:
+  - html
+---
 To understand SVGs, it helps to first know how images work. Common image formats like **PNG** and **JPEG** are classified as **raster formats**. These are pixel-based, with data tracking the color value of each pixel. A significant drawback of raster images is that they don’t scale well. If you’ve ever tried to enlarge a PNG, you’ve likely noticed that it becomes pixelated or blurry.
 
 **SVG**, which stands for **Scalable Vector Graphic**, is a different type of image format. Unlike raster images, vector graphics use paths and mathematical equations to plot points, lines, and curves. This means an SVG can be resized to any dimension without losing quality.

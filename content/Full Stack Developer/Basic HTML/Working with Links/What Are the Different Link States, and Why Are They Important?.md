@@ -1,5 +1,9 @@
-# What Are the Different Link States, and Why Are They Important?
-
+---
+title: What Are the Different Link States, and Why Are They Important?
+draft: false
+tags:
+  - html
+---
 You may have noticed a link turning purple after you click it. This happens because the **state** of the link has changed, and different styling is applied. In web development, links can exist in five distinct states. Understanding and styling these states appropriately is crucial for creating a user-friendly and visually consistent web experience.  
 
 ### **1. Default State (`link`)**  

@@ -1,6 +1,10 @@
-# What Are the Different Types of Image Licenses, and How Do They Work?
-
-Images are considered intellectual property, which means they are protected by copyright laws. By default, most images are released under an "all rights reserved" status, where the creator or publisher retains full copyright. This generally prohibits using the images on your website unless you do one of the following:
+---
+title: What Are the Different Types of Image Licenses, and How Do They Work?
+draft: false
+tags:
+  - html
+---
+ Images are considered intellectual property, which means they are protected by copyright laws. By default, most images are released under an "all rights reserved" status, where the creator or publisher retains full copyright. This generally prohibits using the images on your website unless you do one of the following:
 
 1. **Obtain Written Permission**: Get explicit consent from the copyright holder.
 2. **Purchase a License**: Acquire a license that grants you specific usage rights.

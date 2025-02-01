@@ -1,5 +1,10 @@
-# What Are the Roles of the HTML Audio and Video Elements, and How Do They Work?
 
+---
+title: "What Are the Roles of the HTML Audio and Video Elements, and How Do They Work?"
+draft: false
+tags:
+  - html
+---
 ### The Role of HTML `<audio>` and `<video>` Elements  
 
 The `<audio>` and `<video>` elements allow you to integrate sound and video content into your HTML documents, enhancing the multimedia experience of your website.  

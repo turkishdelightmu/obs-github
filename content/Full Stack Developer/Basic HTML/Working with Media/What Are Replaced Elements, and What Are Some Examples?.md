@@ -1,6 +1,9 @@
-
-# What Are Replaced Elements, and What Are Some Examples?
-
+---
+title: What Are Replaced Elements, and What Are Some Examples?
+draft: false
+tags:
+  - html
+---
 A replaced element is an element whose content is determined by an external resource rather than by CSS itself. CSS (Cascading Style Sheets) is used to add styles to a web page. Common examples of replaced elements include the `<img>`, `<iframe>`, and `<video>` elements. 
 
 With replaced elements, you can control the position or layout of the element, but your CSS cannot directly modify its content. This is easier to explain with a few examples. Consider the `<img>` element, which embeds an image on your web page. The element itself is replaced by the external object — the image. While CSS can control things like the positioning of the image or apply a filter to it, you cannot actually modify the image itself.

@@ -1,6 +1,10 @@
-# What Are IDs and Classes, and When Should You Use Them?
-
-- **IDs and Classes Overview:** IDs are unique, while classes can be reused for multiple elements.
+---
+title: "What Are IDs and Classes, and When Should You Use Them?"
+draft: false
+tags:
+  - 
+---
+**IDs and Classes Overview:** IDs are unique, while classes can be reused for multiple elements.
 
 - **ID Attribute:**
   - Assigns a **unique identifier** to an HTML element.

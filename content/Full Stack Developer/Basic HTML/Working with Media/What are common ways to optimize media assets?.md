@@ -1,4 +1,9 @@
-# **What are common ways to optimize media assets?**
+---
+title: What are common ways to optimize media assets?
+draft: false
+tags:
+  - html
+---
 
 There are three key factors to consider when using media, such as images, on your web pages: size, format, and compression. Let's discuss the size of your images first. When building a website, you'll often style images to display at a specific size. For example, you might want an image to display at a resolution of 640x480, where 640 represents the width and 480 represents the height in pixels. 
 

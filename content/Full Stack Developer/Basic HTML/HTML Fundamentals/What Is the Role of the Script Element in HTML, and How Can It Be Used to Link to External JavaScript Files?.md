@@ -1,8 +1,11 @@
-# What Is the Role of the Script Element in HTML, and How Can It Be Used to Link to External JavaScript Files?
+---
+title: What Is the Role of the Script Element in HTML, and How Can It Be Used to Link to External JavaScript Files?
+draft: false
+tags:
+  - html
+---
 
-### **Main Points:**
-
-- **The `<script>` Element**: Used to embed or link to executable JavaScript code, adding interactivity to web pages.
+**The `<script>` Element**: Used to embed or link to executable JavaScript code, adding interactivity to web pages.
 
 - **Common Uses of JavaScript**: Enhances user interaction through:
   - Interactive games

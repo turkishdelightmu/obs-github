@@ -1,6 +1,3 @@
-# What Is the Difference Between Absolute and Relative Paths?
-
-
 A path is a string that specifies the location of a file or directory within a file system. In web development, paths are used to link to resources such as images, stylesheets, scripts, and other web pages. There are two main types of paths: **absolute** and **relative**. Understanding their differences is essential for specifying file locations effectively. Let’s explore each type so you can decide when to use them.  
 
 ### **Absolute Path**  

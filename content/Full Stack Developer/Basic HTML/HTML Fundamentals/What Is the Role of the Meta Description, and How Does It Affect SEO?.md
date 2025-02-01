@@ -1,6 +1,10 @@
-# What Is the Role of the Meta Description, and How Does It Affect SEO?
-
-**SEO** (Search Engine Optimization) is the practice of optimizing web pages to make them more visible and rank higher on search engines. One way to improve your site's SEO is by providing a short description for each web page using the **meta description** element.
+---
+title: What Is the Role of the Meta Description, and How Does It Affect SEO?
+draft: false
+tags:
+  - html
+---
+ **SEO** (Search Engine Optimization) is the practice of optimizing web pages to make them more visible and rank higher on search engines. One way to improve your site's SEO is by providing a short description for each web page using the **meta description** element.
 
 ### 1.**How to Use the Meta Description Element**
 

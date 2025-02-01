@@ -1,6 +1,9 @@
-
-# What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
-
+---
+title: What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
+draft: false
+tags:
+  - html
+---
 You may have encountered links like this before, but what do these special types of links mean? These are called **file paths**, which specify the location of a file or folder in a file system. To work effectively with file paths, it’s important to understand three key syntaxes:  
 
 1. **The Slash (`/` or `\`)**  

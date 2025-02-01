@@ -1,8 +1,11 @@
+---
+title: "What Are HTML Entities, and What Are Some Common Examples?"
+draft: false
+tags:
+  - 
+---
 
-# What Are HTML Entities, and What Are Some Common Examples?
-
-- **What Are HTML Entities?**  
-  - HTML entities (or character references) are used to represent reserved characters in HTML.
+  HTML entities (or character references) are used to represent reserved characters in HTML.
 
 - **Example Problem:**  
   - Intended text: **This is an `<img>` element**.  
@@ -45,7 +48,3 @@
 
 - **Purpose of HTML Entities:**  
   - Ensure reserved or special characters are displayed as intended.
-
---- 
-
-This structure highlights the key takeaways for better readability and understanding.
