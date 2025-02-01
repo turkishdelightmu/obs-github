@@ -4,7 +4,6 @@ draft: false
 tags:
   - html
 ---
-
 ### Main Points:
 
 1. **Definition of HTML**:
