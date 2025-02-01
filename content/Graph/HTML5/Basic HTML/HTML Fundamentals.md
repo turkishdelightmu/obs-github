@@ -1,0 +1,11 @@
+
+1. [What are Div Elements and When Should You Use Them?] [[div-elements]]
+2. [What Are IDs and Classes, and When Should You Use Them?] [[id-classes]]
+3. [What Are HTML Entities, and What Are Some Common Examples?] [[html-entities]]
+4. [What Is the Role of the Link Element in HTML, and How Can It Be Used to Link to External Stylesheets?] [[link-element]]
+5. [What Is the Role of the Script Element in HTML, and How Can It Be Used to Link to External JavaScript Files?] [[script-element]]
+6. [What Is an HTML Boilerplate, and Why Is It Important?] [[html-boilerplate]]
+7. [What Is UTF-8 Character Encoding, and Why Is It Needed?] [[utf-8]]
+8. [What Is the Role of the Meta Description, and How Does It Affect SEO?] [[meta-description]]
+9. [What Is the Role of Open Graph Tags, and How Do They Affect SEO?] [[open-graph-tags]]
+10. [Build a Travel Agency Page] [[github/HTML/Basic HTML/HTML Fundamentals/Travel Agency Page/index.html|index.html]]

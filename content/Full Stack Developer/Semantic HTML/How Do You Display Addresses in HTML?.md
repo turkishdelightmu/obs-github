@@ -1,6 +1,10 @@
-# How Do You Display Addresses in HTML?
-
-The **`<address>` (contact address) element** is used to represent **contact information** for a section on a web page. This element is versatile and can be used for **business pages, author pages, personal sites, and more**.  
+---
+title: How Do You Display Addresses in HTML?
+draft: false
+tags:
+  - html
+---
+ The **`<address>` (contact address) element** is used to represent **contact information** for a section on a web page. This element is versatile and can be used for **business pages, author pages, personal sites, and more**.  
 
 When building a contact section for your website, it is best to use the **semantic `<address>` element** instead of a generic `<div>` or `<p>` element.  
 
