@@ -6,7 +6,6 @@ longform:
   sceneFolder: /
   scenes:
     - README
-    - HTML
   sceneTemplate: templates/HTML.md
   ignoredFiles: []
 ---
