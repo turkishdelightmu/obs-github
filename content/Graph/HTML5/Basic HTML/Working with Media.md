@@ -1,6 +1,0 @@
-1. [What Are Replaced Elements, and What Are Some Examples?] [[replaced-elements-1]]
-2. [What Are Common Ways to Optimize Media Assets?] [[optimize-media-assets-2]]
-3. [What Are the Different Types of Image Licenses, and How Do They Work?] [[image-licenses-3]]
-4. [What Are SVGs, and When Should You Use Them?] [[svg-4]]
-5. [What Are the Roles of the HTML Audio and Video Elements, and How Do They Work?] [[html-audio-video-5]]
-6.  [How to Embed Videos on Your Page Using the `iframe` Element] [[iframe-6]]
