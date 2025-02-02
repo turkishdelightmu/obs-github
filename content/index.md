@@ -12,11 +12,11 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 ### 1. Basic HTML
  - [[Basics]]
  - [[HTML Fundamentals]]
- - [[Working with Media]]]
+ - [[Working with Media]]
  - [[Working with Links]]
 ### 2. Semantic HTML
-- 
+- [[Semantic HTML]]
 ### 3. Forms and Tables
-- [Working with Tables](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Forms%20and%20Tables/Working%20with%20Tables)
+- [[Working with Tables]]
 
 
