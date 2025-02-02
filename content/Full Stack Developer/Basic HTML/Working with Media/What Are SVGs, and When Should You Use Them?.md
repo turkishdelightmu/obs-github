@@ -1,5 +1,5 @@
 ---
-title: What Are SVGs, and When Should You Use Them?
+title: What are SVGs, and When Should You Use Them?
 draft: false
 tags:
   - html
