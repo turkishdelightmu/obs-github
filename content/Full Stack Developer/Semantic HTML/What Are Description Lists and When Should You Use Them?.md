@@ -1,5 +1,5 @@
 ---
-title: What Are Description Lists and When Should You Use Them?
+title: What are Description Lists and When Should You Use Them?
 draft: false
 tags:
   - html
