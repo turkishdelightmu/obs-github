@@ -1,2 +1,3 @@
 1. [[What are Attributes, and How Do They Work?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Basics/What-Are-Attributes,-and-How-Do-They-Work)
-2. [What is HTML, and What Role Does it Play on the Web?]
+2. [[What is HTML, and What Role Does it Play on the Web?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Basics/What-Is-HTML,-and-What-Role-Does-It-Play-on-the-Web)
+3. 
