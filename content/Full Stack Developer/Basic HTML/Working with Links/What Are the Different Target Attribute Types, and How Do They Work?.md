@@ -1,5 +1,5 @@
 ---
-title: What are the Different Target Attribute Types, and How Do They Work?
+title: what-are-the-different-types-of-buttons-and-when-should-you-use-them
 draft: false
 tags:
   - html
