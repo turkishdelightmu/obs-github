@@ -4,7 +4,6 @@ draft: false
 tags:
   - html
 ---
-
 1. **Definition of Attributes**:
    - Attributes are values placed inside the opening tag of an HTML element.
    - They provide additional information or specify how the element should behave.

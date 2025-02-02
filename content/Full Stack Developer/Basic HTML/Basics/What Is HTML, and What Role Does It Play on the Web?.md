@@ -4,8 +4,6 @@ draft: false
 tags:
   - html
 ---
-### Main Points:
-
 1. **Definition of HTML**:
    - HTML stands for Hypertext Markup Language and is used to create web pages.
    - It structures and represents webpage content, such as paragraphs, headings, links, images, and videos.
