@@ -1,5 +1,5 @@
 ---
-title: What Are the Different Link States, and Why Are They Important?
+title: What are the Different Link States, and Why are They Important?
 draft: false
 tags:
   - html

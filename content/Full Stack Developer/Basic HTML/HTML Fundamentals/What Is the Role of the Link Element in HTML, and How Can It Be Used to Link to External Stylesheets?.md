@@ -1,5 +1,5 @@
 ---
-title: What is the Role of the Link Element in HTML, and How Can It Be Used to Link to External Stylesheets?
+title: What is the Role of the Link Element in HTML, and How Can it be Used to Link to External Stylesheets?
 draft: false
 tags:
   - html

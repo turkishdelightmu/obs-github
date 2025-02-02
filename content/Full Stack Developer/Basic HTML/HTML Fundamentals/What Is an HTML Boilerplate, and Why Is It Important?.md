@@ -1,5 +1,5 @@
 ---
-title: What is an HTML Boilerplate, and Why Is It Important?
+title: What is an HTML Boilerplate, and Why is it Important?
 draft: false
 tags:
   - html

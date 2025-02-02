@@ -1,5 +1,5 @@
 ---
-title: What Are Div Elements and When Should You Use Them?
+title: What are Div Elements and When Should You Use Them?
 draft: false
 tags:
   - html

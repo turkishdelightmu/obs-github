@@ -1,5 +1,5 @@
 ---
-title: What Are Attributes, and How Do They Work?
+title: What are Attributes, and How Do They Work?
 draft: false
 tags:
   - html

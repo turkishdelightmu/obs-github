@@ -1,5 +1,5 @@
 ---
-title: What Are IDs and Classes, and When Should You Use Them?
+title: What are IDs and Classes, and When Should You Use Them?
 draft: false
 tags:
   - html

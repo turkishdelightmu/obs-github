@@ -1,5 +1,5 @@
 ---
-title: What Are the Different Target Attribute Types, and How Do They Work?
+title: What are the Different Target Attribute Types, and How Do They Work?
 draft: false
 tags:
   - html

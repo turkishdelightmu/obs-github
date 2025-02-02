@@ -1,5 +1,5 @@
 ---
-title: What Are the Different Types of Buttons, and When Should You Use Them?
+title: What are the Different Types of Buttons, and When Should You Use Them?
 draft: false
 tags:
   - html

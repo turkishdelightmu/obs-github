@@ -1,5 +1,5 @@
 ---
-title: What are Replaced Elements, and What Are Some Examples?
+title: What are Replaced Elements, and What are Some Examples?
 draft: false
 tags:
   - html

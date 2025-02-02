@@ -1,5 +1,5 @@
 ---
-title: What is the Role of the Script Element in HTML, and How Can It Be Used to Link to External JavaScript Files?
+title: What is the Role of the Script Element in HTML, and How Can it be Used to Link to External JavaScript Files?
 draft: false
 tags:
   - html

@@ -1,5 +1,5 @@
 ---
-title: What is the Role of the Meta Description, and How Does It Affect SEO?
+title: What is the Role of the Meta Description, and How Does it Affect SEO?
 draft: false
 tags:
   - html
