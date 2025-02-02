@@ -1,8 +1,8 @@
 ---
-title: What are the Different Target Attribute Types, and How Do They Work?
+title: "What are the Different Target Attribute Types, and How Do They Work?"
 draft: false
 tags:
-  - html
+  - 
 ---
  You may have encountered the `target` attribute on anchor (`<a>`) elements or links. This important attribute specifies where the browser should open the URL associated with the anchor element. There are several possible values for this attribute, each serving a unique purpose. Note that each value is preceded by an underscore (`_`).
 

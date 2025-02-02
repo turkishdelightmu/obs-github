@@ -3,6 +3,7 @@ title: What are the Different Target Attribute Types, and How Do They Work?
 draft: false
 tags:
   - html
+aliases:
 ---
  The `<button>` element is used to perform a specific action when activated. Here’s an example of a button element with the text **"Start Game"**:
 
