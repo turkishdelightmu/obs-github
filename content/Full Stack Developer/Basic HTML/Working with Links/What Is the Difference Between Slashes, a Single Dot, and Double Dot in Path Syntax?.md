@@ -1,5 +1,5 @@
 ---
-title: What Is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
+title: What is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?
 draft: false
 tags:
   - html

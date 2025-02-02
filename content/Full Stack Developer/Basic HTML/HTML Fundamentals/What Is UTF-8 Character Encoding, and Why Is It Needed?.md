@@ -1,5 +1,5 @@
 ---
-title: What Is UTF-8 Character Encoding, and Why Is It Needed?
+title: What is UTF-8 Character Encoding, and Why is it Needed?
 draft: false
 tags:
   - html

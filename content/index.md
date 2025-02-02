@@ -10,9 +10,7 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 
 ## HTML
 ### 1. Basic HTML
- - [Basics]
-	 - [[What Are Attributes, and How Do They Work?]]
-	 - [[What is HTML, and What Role Does It Play on the Web?]]
+ - [[Basics]]
  - [HTML Fundamentals]
  - [Working with Media](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Working%20with%20Media)
  - [Working with Links](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Working%20with%20Links)

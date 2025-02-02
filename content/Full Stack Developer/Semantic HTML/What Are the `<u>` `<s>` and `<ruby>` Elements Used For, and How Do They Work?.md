@@ -1,11 +1,10 @@
-
 ---
-title: "What Are the `<u>` `<s>` and `<ruby>` Elements Used For, and How Do They Work?"
+title: What are the `<u>` `<s>` and `<ruby>` Elements Used For, and How Do They Work?
 draft: false
 tags:
   - html
 ---
- ### **The `<u>` Element (Unarticulated Annotation)**  
+  ### **The `<u>` Element (Unarticulated Annotation)**  
 
 The **`<u>` (unarticulated annotation) element** is used to represent **inline text that has a non-textual annotation applied**.  
 
