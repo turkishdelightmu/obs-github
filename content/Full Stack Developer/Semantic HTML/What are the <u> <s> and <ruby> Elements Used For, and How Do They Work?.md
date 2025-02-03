@@ -1,5 +1,5 @@
 ---
-title: What are the `<u>` `<s>` and `<ruby>` Elements Used For, and How Do They Work?
+title: What are the <u> <s> and <ruby> Elements Used For, and How Do They Work?
 draft: false
 tags:
   - html
