@@ -1,2 +1,2 @@
-1. [[How Do Forms, Labels, and Inputs Work in HTML?]]
-2. [[What are the Different Types of Buttons, and When Should You Use Them?]]
+1. [[How Do Forms, Labels, and Inputs Work in HTML?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Working-with-Tables/How-Do-Forms,-Labels,-and-Inputs-Work-in-HTML)
+2. [[What are the Different Types of Buttons, and When Should You Use Them?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Working-with-Tables/What-Are-the-Different-Types-of-Buttons,-and-When-Should-You-Use-Them)

@@ -1,0 +1,4 @@
+1. [[What are the Different Link States, and Why Are They Important?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Links/What-Are-the-Different-Link-States,-and-Why-Are-They-Important)
+2. [[What are the Different Target Attribute Types, and How Do They Work?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Links/What-Are-the-Different-Target-Attribute-Types,-and-How-Do-They-Work)
+3. [[What is the Difference Between Absolute and Relative Paths?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Links/What-Is-the-Difference-Between-Absolute-and-Relative-Paths)
+4. [[What is the Difference Between Slashes, a Single Dot, and Double Dot in Path Syntax?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Links/What-Is-the-Difference-Between-Slashes,-a-Single-Dot,-and-Double-Dot-in-Path-Syntax)
