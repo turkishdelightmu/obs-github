@@ -3,3 +3,5 @@
 3. [[What is client-side form validation in HTML forms, and what are some examples?]]
 4. [[What are the different form states, and why are they important?]]
 5. [[What Are HTML Tables Used For, and What Should They Not Be Used For?]]
+6. [[What Is an HTML Validator, and How Can It Help You Debug Your Code?]]
+7. [[How to Use the DOM Inspector and DevTools to Debug and Build Your Projects]]
