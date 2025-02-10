@@ -18,5 +18,6 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 - [[Semantic HTML]]
 ### 3. Forms and Tables
 - [[Working with Tables]]
-
+### 4. Accessibility
+- [[Accessibility]]
 
