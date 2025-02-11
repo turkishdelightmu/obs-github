@@ -1,3 +1,6 @@
 1. [[What Is Accessibility?]]
 2. [[What Are Screen Readers, and Who Uses Them?]]
 3. [[What Are Large Text or Braille Keyboards, and Who Uses Them?]]
+4. [[What Are Alternative Pointing Devices Such as Trackballs, Joysticks, and Touchpads Used For?]]
+5. [[What Are Screen Magnifiers Used For?]]
+6. [[What Is Voice Recognition Software Used For?]]
