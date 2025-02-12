@@ -4,3 +4,6 @@
 4. [[What Are Alternative Pointing Devices Such as Trackballs, Joysticks, and Touchpads Used For?]]
 5. [[What Are Screen Magnifiers Used For?]]
 6. [[What Is Voice Recognition Software Used For?]]
+7. [[What Are Some Common Accessibility Auditing Tools to Use?]]
+8. [[How Does Proper Heading Level Structure Affect Accessibility?]]
+9. [[What Are Best Practices for Tables and Accessibility?]]
