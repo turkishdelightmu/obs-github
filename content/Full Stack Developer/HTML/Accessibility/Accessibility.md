@@ -7,3 +7,12 @@
 7. [[What Are Some Common Accessibility Auditing Tools to Use?]]
 8. [[How Does Proper Heading Level Structure Affect Accessibility?]]
 9. [[What Are Best Practices for Tables and Accessibility?]]
+10. [[Why Is It Important for Inputs to Have an Associated Label?]]
+11. [[What Is the Purpose of WAI-ARIA, and How Does It Work?]]
+12. [[What Are ARIA Roles?]]
+13. [[What Are the Roles of the aria-label and aria-labelledby Attributes?]]
+14. [[What Is the aria-hidden Attribute, and How Does It Work?]]
+15. [[What Is the aria-expanded Attribute, and How Does It Work?]]
+16. [[What Is the aria-live Attribute, and How Does It Work?]]
+17. [[What Are Some Common ARIA States Used on Custom Control Elements?]]
+18. 
