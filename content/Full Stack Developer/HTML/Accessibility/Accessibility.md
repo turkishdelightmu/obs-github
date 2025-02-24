@@ -15,4 +15,9 @@
 15. [[What Is the aria-expanded Attribute, and How Does It Work?]]
 16. [[What Is the aria-live Attribute, and How Does It Work?]]
 17. [[What Are Some Common ARIA States Used on Custom Control Elements?]]
-18. 
+18. [[What Is the aria-controls Attribute, and How Does It Work?]]
+19. [[What is the aria-describedby attribute, and how does it work?]]
+20. [[When Is the alt Attribute Needed, and What Are Some Examples of Good Alt Text?]]
+21. [[What Are the Accessibility Benefits for Good Link Text, and What Are Examples of Good Link Text?]]
+22. [[What Are Good Ways to Make Audio and Video Content Accessible?]]
+23. [[What Are Some Common Accessibility Auditing Tools to Use?]]
