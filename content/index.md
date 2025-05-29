@@ -19,4 +19,7 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 - [[Working with Tables]]
 ### 4. Accessibility
 - [[Accessibility]]
-
+## CSS
+### 1. Computer Basics
+ - [[Understanding Computer, Internet, and Tooling Basics]]
+ - 
