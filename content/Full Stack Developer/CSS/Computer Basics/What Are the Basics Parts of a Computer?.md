@@ -3,13 +3,13 @@ title: What Are the Basics Parts of a Computer?
 draft: false
 tags:
   - css
-  - computerparts
   - motherboard
   - cpu
   - hdd
   - ssd
   - psu
   - gpu
+  - computerbasics
 ---
  Computers are powerful tools used for everything from writing documents to playing games and browsing the web. As a developer, understanding the core components of a computer is essential.
 
