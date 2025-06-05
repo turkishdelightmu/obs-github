@@ -9,11 +9,8 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 
 ## HTML
 ### 1. Basic HTML
- - [[Basics]]
- - [[HTML Fundamentals]]
- - [[Working with Media]]
- - [[Working with Links]]
-### 2. Semantic HTML
+- [[Basics]]
+### 2. Semantinc HTML
 - [[Semantic HTML]]
 ### 3. Forms and Tables
 - [[Working with Tables]]
@@ -22,4 +19,5 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 ## CSS
 ### 1. Computer Basics
  - [[Understanding Computer, Internet, and Tooling Basics]]
- - 
+ - [[Working with File Systems]]
+ - [[Browsing the Web Effectively]]
