@@ -21,3 +21,5 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
  - [[Understanding Computer, Internet, and Tooling Basics]]
  - [[Working with File Systems]]
  - [[Browsing the Web Effectively]]
+### 2. Basics CSS
+- [[What is CSS?]]
