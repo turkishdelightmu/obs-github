@@ -1,6 +1,6 @@
-1. [[How to Embed Videos on Your Page Using the iframe Element]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Media/How-to-Embed-Videos-on-Your-Page-Using-the-iframe-Element)
-2. [[What are common ways to optimize media assets?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Media/What-are-common-ways-to-optimize-media-assets)
-3. [[What are Replaced Elements, and What are Some Examples?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Media/What-Are-Replaced-Elements,-and-What-Are-Some-Examples)
-4. [[What are SVGs, and When Should You Use Them?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Media/What-Are-SVGs,-and-When-Should-You-Use-Them)
-5. [[What are the Different Types of Image Licenses, and How Do They Work?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Media/What-Are-the-Different-Types-of-Image-Licenses,-and-How-Do-They-Work)
-6. [[What are the Roles of the HTML Audio and Video Elements, and How Do They Work?]] (https://turkishdelightco.github.io/obs-github/Full-Stack-Developer/Basic-HTML/Working-with-Media/What-Are-the-Roles-of-the-HTML-Audio-and-Video-Elements,-and-How-Do-They-Work)
+1. [[How to Embed Videos on Your Page Using the iframe Element]] 
+2. [[What are common ways to optimize media assets?]] 
+3. [[What are Replaced Elements, and What are Some Examples?]] 
+4. [[What are SVGs, and When Should You Use Them?]] 
+5. [[What are the Different Types of Image Licenses, and How Do They Work?]] 
+6. [[What are the Roles of the HTML Audio and Video Elements, and How Do They Work?]] 
