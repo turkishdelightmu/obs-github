@@ -9,5 +9,3 @@
 - [[Working with Tables]]
 ### 4. Accessibility
 - [[Accessibility]]
-
-x
