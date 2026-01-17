@@ -2,4 +2,9 @@
 2. [[What Is the Basic Anatomy of a CSS Rule?]]
 3. [[What Is the Meta Viewport Element Used For?]]
 4. [[What are some default browser styles applied to HTML?]]
-5. 
+5. [[What Are Inline, Internal, and External CSS, and When Should You Use Each One?]]
+6. [[How Do Width and Height Work?]]
+7. [[What Are the Different Types of CSS Combinators?]]
+8. [[What Is the Difference Between Inline and Block-Level Elements in CSS?]]
+9. [[How Does Inline-Block Work, and How Does It Differ from Inline and Block Elements?]]
+10. [[What Are Margins and Padding, and How Do They Work?]]

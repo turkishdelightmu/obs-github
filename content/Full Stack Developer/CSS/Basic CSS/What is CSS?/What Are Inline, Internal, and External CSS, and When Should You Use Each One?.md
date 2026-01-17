@@ -3,18 +3,12 @@ title: What Are Inline, Internal, and External CSS, and When Should You Use Each
 draft: false
 tags:
   - basiccss
+  - css
 ---
- Here’s a **blog-friendly summary** with **clear explanations and code examples**.
-
----
-
-## Three Ways to Apply CSS: Inline, Internal, and External
 
 CSS can be added to a webpage in **three main ways**: **inline**, **internal**, and **external**. Each method serves a different purpose, and choosing the right one helps keep your code clean, organized, and maintainable.
 
 Let’s explore each approach, when to use it, and see practical examples.
-
----
 
 ## 1. Inline CSS
 
@@ -43,8 +37,6 @@ Let’s explore each approach, when to use it, and see practical examples.
     
 
 👉 **Best avoided** for regular styling.
-
----
 
 ## 2. Internal CSS
 
@@ -83,8 +75,6 @@ Let’s explore each approach, when to use it, and see practical examples.
     
 - Mixes HTML and CSS, reducing maintainability
     
-
----
 
 ## 3. External CSS
 
@@ -127,16 +117,10 @@ p {
 
 The `rel` attribute defines the relationship (stylesheet), while `href` specifies the file location.
 
----
-
 ## Conclusion
 
 - **Inline CSS** → Quick fixes, not recommended for real projects
-    
 - **Internal CSS** → Useful for single-page styling
-    
 - **External CSS** → Best choice for most websites and applications
-    
 
 👉 For **clean, scalable, and professional development**, **external CSS should be your default approach**.
-
