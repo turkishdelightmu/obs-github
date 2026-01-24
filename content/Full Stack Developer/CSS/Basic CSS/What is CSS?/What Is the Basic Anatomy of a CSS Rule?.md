@@ -3,7 +3,7 @@ title: What Is the Basic Anatomy of a CSS Rule?
 draft: false
 tags:
   - basiccss
-  - anatomoy
+  - anatomy
   - css
 ---
 CSS rules define the visual style of a webpage, and each rule is made up of two main parts: a **selector** and a **declaration block**.
@@ -44,5 +44,5 @@ To apply styles to multiple elements, you can use a selector list:
 
 Here, both an ID selector (`#title`) and a class selector (`.subheading`) are styled with navy text.
 
-Understanding this structure is key to writing effective and organised CSS.
+Understanding this structure is key to writing effective and organized CSS.
 
