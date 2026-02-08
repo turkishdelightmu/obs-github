@@ -16,3 +16,7 @@
 16. [[What Is the important Keyword, and What Are the Best Practices for Using It?]]
 17. [[How Does the Cascade Algorithm Work at a High Level?]]
 18. [[How Does Inheritance Work with CSS at a High Level?]]
+19. [[How to Space List Items Using margin or line-height]]
+20. [[How Do the Different list-style Properties Work?]]
+21. [[Why Are Default Link Styles Important for Usability on the Web?]]
+22. [[How Do You Style the Different Link States?]]
