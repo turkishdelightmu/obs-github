@@ -1,2 +1,2 @@
-1. [[content/Full Stack Developer/Responsive Web Design/HTML/HTML|HTML]]
+1. [[HTML]]
 2. [[CSS]]
