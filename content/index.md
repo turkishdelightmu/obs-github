@@ -10,7 +10,7 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 
 ## Table of Context
 
-### 1. [[Responsive Web Design
+### 1. [[Responsive Web Design]]
 
 ### 2. JavaScript
 

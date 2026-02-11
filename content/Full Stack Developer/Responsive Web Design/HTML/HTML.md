@@ -1,4 +1,3 @@
-
 ### 1. Basic HTML
  - [[Basics]]
  - [[HTML Fundamentals]]
