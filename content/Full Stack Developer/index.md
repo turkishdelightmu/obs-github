@@ -11,7 +11,7 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 
 ### 3. Front End Development Libraries
 
-### 4. Python
+### 4. [[Python]]
 
 ### 5. Relational Databases
 
