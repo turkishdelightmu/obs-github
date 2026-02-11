@@ -2,6 +2,7 @@
 title: Full Stack Developer Journal
 tags:
 ---
+
 # Freecodecamp: Full Stack Developer Curriculum
 
 <img src="https://github.com/TurkishDelightCo/full-stack-developer/blob/main/freecodecamp.png?raw=true" />
