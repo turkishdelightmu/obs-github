@@ -1,10 +1,3 @@
----
-title: "HTML"
-draft: false
-tags:
-  - 
----
- 
 
 ### 1. Basic HTML
  - [[Basics]]
