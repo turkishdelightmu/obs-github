@@ -1,5 +1,0 @@
-import { redirect } from "next/navigation";
-
-export default function Home() {
-  redirect("/meeting-note-cleaner");
-}
