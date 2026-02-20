@@ -56,8 +56,7 @@
   height: 100vh;
   overflow-y: auto;
   display: none;
-  -webkit-backdrop-filter: blur(4px);
-          backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
 }
 .search > .search-container.active {
   display: inline-block;

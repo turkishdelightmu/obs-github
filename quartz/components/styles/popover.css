@@ -26,9 +26,6 @@
   left: 0;
   top: 0;
   will-change: transform;
-  visibility: hidden;
-  opacity: 0;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 .popover > .popover-inner {
   position: relative;
@@ -66,6 +63,11 @@
 }
 .popover h1 {
   font-size: 1.5rem;
+}
+.popover {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 @media all and ((max-width: 800px)) {
   .popover {

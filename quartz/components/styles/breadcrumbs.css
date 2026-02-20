@@ -8,15 +8,15 @@
   gap: 0.5rem;
 }
 
-.breadcrumb-element {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
 .breadcrumb-element p {
   margin: 0;
   margin-left: 0.5rem;
   padding: 0;
   line-height: normal;
+}
+.breadcrumb-element {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }/*# sourceMappingURL=breadcrumbs.css.map */
