@@ -6,6 +6,7 @@
   "type": "module",
   "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
+  "packageManager": "npm@11.10.1",
   "homepage": "https://quartz.jzhao.xyz",
   "repository": {
     "type": "git",
