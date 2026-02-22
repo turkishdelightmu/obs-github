@@ -1,5 +1,5 @@
 ---
-title: Common Design Terms (and Tiny Code Demos) That Help Developers Talk to Designers Untitled
+title: Common Design Terms (and Tiny Code Demos) That Help Developers Talk to Designers
 draft: false
 tags:
   - css

@@ -6,4 +6,6 @@
 1. [[What is CSS?]]
 
 ## Design
-1. [[User Interface Design Fundamentals]]
+1. [[Common Design Terms (and Tiny Code Demos) That Help Developers Talk to Designers]]
+2. [[A Practical Tour of User-Centered UX Patterns (with Code)]]
+3. [[Design Briefs - The Blueprint Developers Build From (Plus the Tools Designers Use)]]
